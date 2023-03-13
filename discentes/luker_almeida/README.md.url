@@ -1,0 +1,7 @@
+Arquivo chamado "arquivo.txt";
+
+Executar o programa;
+ALL: make all
+RUN: make brainfuck
+BUILD: make build
+CLEAN: make clean
